@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ueFrBrKd52Gv5KRRJ8uuJo7Mndex9niCvyx3SicJV+1fURc0Wh2+kLrD2rt5iYwG1a1mxmxpDST+JdchC5MURQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvax\\Documents\\Paginacion\\Clases-semstre-IV\\LENGUAJE DE PROGRAMACION III\\PART-2\\TrabajoFinal02\\TrabajoFinal02\\capaEntidad\\capaEntidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvax\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\alvax\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\alvax\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

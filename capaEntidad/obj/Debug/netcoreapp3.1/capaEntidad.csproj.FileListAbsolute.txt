@@ -1,0 +1,9 @@
+C:\Users\FelinoHost\source\repos\Udemy_CS\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.deps.json
+C:\Users\FelinoHost\source\repos\Udemy_CS\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\FelinoHost\source\repos\Udemy_CS\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+C:\Users\FelinoHost\source\repos\Udemy_CS\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.csprojAssemblyReference.cache
+C:\Users\FelinoHost\source\repos\Udemy_CS\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\FelinoHost\source\repos\Udemy_CS\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.AssemblyInfo.cs
+C:\Users\FelinoHost\source\repos\Udemy_CS\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\FelinoHost\source\repos\Udemy_CS\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\FelinoHost\source\repos\Udemy_CS\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.pdb
